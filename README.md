@@ -15,7 +15,7 @@ $ npm install -g json-server
 $ cd phonefinder/server
 
 # run JSON Server
-$ json-server fakePhoneData.json
+$ json-server database.json
 
 # Now JSON server is running
 ```
