@@ -11,9 +11,6 @@ First you need to install [JSON-Server](https://github.com/typicode/json-server)
 # To instal JSON server
 $ npm install -g json-server
 
-# To run fake data in local folder structure
-$ cd phonefinder/server
-
 # run JSON Server
 $ json-server database.json
 
